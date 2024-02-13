@@ -5,6 +5,7 @@ Single cell analysis of transposable Elements in Human Testis
 - scTE: An algorithm that quantifies TE expression in single-cell sequence data [scTE GitHub](https://github.com/JiekaiLab/scTE)
 - Inputs: (1) Aligned sequence reads (BAM/SAM format). (2) The genomic location of TEs (BED format). (3) The genomic location of genes (GTF format)
 - Human Genome annotations:
+  
 $ ftp://ftp.ebi.ac.uk/pub/databases/gencode/Gencode_human/release_30/gencode.v30.annotation.gtf.gz
 $ http://hgdownload.soe.ucsc.edu/goldenPath/hg38/database/rmsk.txt.gz
 
