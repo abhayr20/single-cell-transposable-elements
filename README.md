@@ -2,7 +2,7 @@
 Single cell analysis of transposable Elements in Human Testis
 
 ## Analysis software for obtaining single cell TE count matrix
-- scTE: An algorithm that quantifies TE expression in single-cell sequence data [scTE GitHub](https://github.com/JiekaiLab/scTE)
+- [scTE](https://github.com/JiekaiLab/scTE): An algorithm that quantifies TE expression in single-cell sequence data 
 - Inputs: (1) Aligned sequence reads (BAM/SAM format). (2) The genomic location of TEs (BED format). (3) The genomic location of genes (GTF format)
 - Human Genome annotations:
   
