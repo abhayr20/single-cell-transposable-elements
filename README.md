@@ -1,5 +1,5 @@
 # Single cell Transposable Elements
-Single cell analysis of transposable Elements in Human Testis
+Single cell analysis of transposable Elements in Human Testis. FASTQ files from three single-cell studies were downloaded and BAM files containing transposable element expression were generated using scTE. Single cell data was analysed using scanpy.
 
 ## Analysis software for obtaining single cell TE count matrix
 - [scTE](https://github.com/JiekaiLab/scTE): An algorithm that quantifies TE expression in single-cell sequence data 
@@ -9,6 +9,8 @@ Single cell analysis of transposable Elements in Human Testis
 $ ftp://ftp.ebi.ac.uk/pub/databases/gencode/Gencode_human/release_30/gencode.v30.annotation.gtf.gz
 
 $ http://hgdownload.soe.ucsc.edu/goldenPath/hg38/database/rmsk.txt.gz
+
+Also read [soloTE](https://github.com/bvaldebenitom/SoloTE)
 
 
 ## Raw datasets for single cell testis 
